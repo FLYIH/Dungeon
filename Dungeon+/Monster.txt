@@ -1,0 +1,7 @@
+6
+tiger
+rabbit
+wild boar
+deer
+zombie
+mummy

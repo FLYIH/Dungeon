@@ -1,0 +1,15 @@
+14
+poisonstatus
+You are in poison status. Your thirst will increase every ten seconds.
+magic forest
+Legend has that the tiger is control all the magic forest. Could you help me to kill the tiger?
+animal forest
+Legend has that there are many animals in the forest. 
+sandstorm
+You encounter the sandstorm. (hunger + 5, thirst + 10) every ten seconds
+oasis
+Congrats! You've found the oasis! Enjoy a free coconut, reducing your thirst by -20. 
+stuck
+OOPS! You stuck in the swamp. 
+mummy swamp
+Oh, why is there a mummy?
