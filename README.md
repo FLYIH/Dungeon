@@ -10,7 +10,7 @@ Dungeon RPG is a text-based adventure game developed in C++ using object-oriente
 To compile the game, use the following command:
 
 ```
-cd Dungeon
+cd Dungeon_file
 g++ -std=c++11 -Wall *.cpp -o dungeon
 ```
 Then, run the game with:
