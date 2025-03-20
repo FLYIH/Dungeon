@@ -1,0 +1,5 @@
+Elaine 100 50 20 15 0 0 0 50
+0
+2
+skill NormalSkill 0 0 0 0
+skill PowerStrike 30 0 0 10

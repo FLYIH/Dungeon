@@ -1,0 +1,27 @@
+ ┌──────────────────────────────────────────────────────────────┐
+ │                      Wanted Poster                           │
+ │                                                              │
+ │ For anyone who can provide information leading to the arrest │
+ │ of the following criminal, a generous reward will be given:  │
+ │                                                              │
+ │ Description: Approximately 6 feet tall, muscular build,      │
+ │              black short hair, with a prominent tattoo on    │
+ │              his right arm.                                  │
+ │ Crimes: He is a dangerous gunman wanted for multiple         │
+ │         robberies and murders. He is skilled in using        │
+ │         various firearms, including handguns and rifles.     │
+ │ Last Seen: Spotted at the town bar last week and has been    │
+ │            missing since.                                    │
+ │                                                              │
+ │ Reward: $100,000                                             │
+ │                                                              │
+ │ Provide Tips: Please contact your local police department    │
+ │               or call our hotline at 1-800-555-1234.         │
+ │                                                              │
+ │ Note: The hotline accepts anonymous tips. We will protect    │
+ │       the identity of informants and pay the reward for any  │
+ │       information that helps us bring this criminal to       │
+ │       justice.                                               │
+ └──────────────────────────────────────────────────────────────┘
+ a. run away (hunger increase 20)
+ b. be arrested temporarily and attemp to evade capture

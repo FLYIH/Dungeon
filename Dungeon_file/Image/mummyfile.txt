@@ -1,0 +1,17 @@
++---------------------------------------------+
+|                  Mummy File                 |
++---------------------------------------------+
+| Discovery Location:      Dungeon            |
+| Quantity:                1 unit             |
+| Discovery Process:       Found within the   |
+|                          marshy area        |
+| Characteristics:         The body is        |
+|                          meticulously       |
+|                          preserved, with    |
+|                          the hair and       |
+|                          facial expressions |
+|                          fully intact,      |
+|                          presenting an      |
+|                          extremely serene   |
+|                          countenance.       |
++---------------------------------------------+
